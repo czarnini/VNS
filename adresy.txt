@@ -1,0 +1,10 @@
+﻿Warszawa,PL
+Radom,PL
+Gdansk,PL
+Łódź,PL
+Wroclaw,PL
+Bydgoszcz,PL
+Kutno,PL
+Katowice,PL
+Kraków,PL
+Rzeszów,PL
